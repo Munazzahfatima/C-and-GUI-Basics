@@ -1,0 +1,10 @@
+//---------------------------------------------------------------------------
+//
+// Name:        Project ADDITION CALCULATOR
+// Created:     wxDev C++ (outline)
+// Modified:    Munazzah
+// Description:  It takes 2 nos and add them
+//
+//---------------------------------------------------------------------------
+
+#include <wx/msw/wx.rc>
